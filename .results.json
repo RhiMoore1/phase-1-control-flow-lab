@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2023-03-13T15:59:05.099Z",
-    "end": "2023-03-13T15:59:05.642Z",
-    "duration": 543
+    "start": "2023-03-24T22:30:05.992Z",
+    "end": "2023-03-24T22:30:09.369Z",
+    "duration": 3377
   },
   "tests": [
     {
@@ -41,7 +41,7 @@
     {
       "title": "returns \"Ok, sounds good.\" when the city is NYC",
       "fullTitle": "index.js ternaryCheckCity() returns \"Ok, sounds good.\" when the city is NYC",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,7 +108,7 @@
     {
       "title": "returns \"Ok, sounds good.\" when the city is NYC",
       "fullTitle": "index.js ternaryCheckCity() returns \"Ok, sounds good.\" when the city is NYC",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
